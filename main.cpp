@@ -51,5 +51,6 @@ void setup(void){
 void loop(void){
 	// put your main code here, to run repeatedly:
 	// remove exit 0
+	system("pause");
 	exit (0);
 }
